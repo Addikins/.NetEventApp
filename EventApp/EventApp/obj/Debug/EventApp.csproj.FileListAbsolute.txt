@@ -106,3 +106,5 @@ E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\Event
 E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.csproj.CopyComplete
 E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.dll
 E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.pdb
+E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.Migrations.initialModel.resources
+E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.cache
