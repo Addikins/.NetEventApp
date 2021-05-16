@@ -111,3 +111,4 @@ E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\Event
 E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.Migrations.CreateEventTable.resources
 E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.Migrations.OverrideConventionsForUserEventsAndGenres.resources
 E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.Migrations.PopulateGenresTable.resources
+E:\Dev Stuff\dev\ASP.Net\Legacy\.Net Event App\EventApp\EventApp\obj\Debug\EventApp.Migrations.AddForeignKeyPropertiesToUserEvent.resources
