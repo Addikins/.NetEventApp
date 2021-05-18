@@ -25,16 +25,63 @@ textarea {
 
 /*Bootstrap Overrides*/
 .navbar-inverse {
-    background-color: #F65858;
-    border-color: #F65858;
+    background-color: #0076db;
+    border-color: #0076db;
 }
-.navbar-inverse .navbar-brand {
-    color: whitesmoke;
+
+    .navbar-inverse .navbar-brand {
+        color: whitesmoke;
+    }
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: whitesmoke;
+    }
+
+    .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+        background-color: rgba(234, 181, 181, .17);
+    }
+
+.dropdown-menu {
+    -webkit-box-shadow: none;
+    box-shadow: none;
 }
-.navbar-inverse .navbar-nav > li > a {
-    color: whitesmoke;
+.navbar-brand {
+    font-weight: 700;
+}
+
+body {
+    font-size: 17px;
 }
 
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: Noto Sans JP, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    font-size: 17px;
+    padding: 20px 15px;
+    -ms-border-radius: 9px;
+    border-radius: 9px;
+}
+
+    .form-control:focus {
+        border-color: #2196f3;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+
+.btn {
+    font-size: 17px;
+    -ms-border-radius: 9px;
+    border-radius: 9px;
+    padding: 7px 20px;
+}
+
+span.field-validation-error {
+    color: red;
+    font-weight: bold;
 }
